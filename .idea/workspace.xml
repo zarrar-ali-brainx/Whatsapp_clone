@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c19ec345-6d9f-43b1-8483-bb057cac791c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Frontend/src/components/Messages.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Frontend/src/components/Searchbar.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Frontend/src/components/ThreadAppView.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Frontend/src/components/ThreadDisplayHeader.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Frontend/src/components/ThreadDisplayScreen.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Frontend/src/components/ThreadItem.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Frontend/src/components/ThreadListing.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Frontend/src/components/ThreadListingContainer.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Frontend/src/components/ThreadListingHeader.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Frontend/src/components/ThreadReplyField.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Frontend/src/components/ThreadViewContainer.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Frontend/src/messages.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Frontend/src/stores/GlobalStore.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Frontend/src/threadItems.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../whatsapp_clone/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../whatsapp_clone/.vscode/extensions.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../whatsapp_clone/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../whatsapp_clone/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../whatsapp_clone/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../whatsapp_clone/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../whatsapp_clone/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../whatsapp_clone/src/App.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../whatsapp_clone/src/assets/base.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../whatsapp_clone/src/assets/icons8-connection-status-on-48.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../whatsapp_clone/src/assets/images (1).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../whatsapp_clone/src/assets/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../whatsapp_clone/src/assets/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../whatsapp_clone/src/assets/output-onlinepngtools.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../whatsapp_clone/src/assets/profile.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../whatsapp_clone/src/components/Messages.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../whatsapp_clone/src/components/SearchBar.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../whatsapp_clone/src/components/ThreadAppView.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../whatsapp_clone/src/components/ThreadDisplayHeader.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../whatsapp_clone/src/components/ThreadDisplayScreen.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../whatsapp_clone/src/components/ThreadItem.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../whatsapp_clone/src/components/ThreadListing.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../whatsapp_clone/src/components/ThreadListingContainer.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../whatsapp_clone/src/components/ThreadListingHeader.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../whatsapp_clone/src/components/ThreadReplyField.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../whatsapp_clone/src/components/ThreadViewContainer.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../whatsapp_clone/src/components/icons/IconCommunity.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../whatsapp_clone/src/components/icons/IconDocumentation.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../whatsapp_clone/src/components/icons/IconEcosystem.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../whatsapp_clone/src/components/icons/IconSupport.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../whatsapp_clone/src/components/icons/IconTooling.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../whatsapp_clone/src/data/messages.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../whatsapp_clone/src/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../whatsapp_clone/src/messages.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../whatsapp_clone/src/stores/GlobalStore.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../whatsapp_clone/src/threadItems.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../whatsapp_clone/vite.config.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Vue Composition API Component" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="/bin/php" />
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2Y7IE4P1gUkrIkD1RxkW4pXY529" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/home/brainxlaraveldev/project",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "/snap/phpstorm/357/plugins/javascript-impl/jsLanguageServicesImpl/external",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "vue.recent.templates": [
+      "Vue Composition API Component"
+    ]
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c19ec345-6d9f-43b1-8483-bb057cac791c" name="Changes" comment="" />
+      <created>1699870076169</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1699870076169</updated>
+      <workItem from="1699870077323" duration="3185000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
